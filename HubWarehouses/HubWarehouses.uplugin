@@ -1,0 +1,17 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "HubWarehouses",
+	"Description": "Warehouses with pipe connections at the top and different congifurations",
+	"Category": "UGC",
+	"CreatedBy": "Seer",
+	"CreatedByURL": "https://github.com/seertenedos/AstroColony-Mod---HubWarehouses",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false
+}
